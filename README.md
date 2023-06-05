@@ -1,6 +1,8 @@
 # Movie DB analysis using Pandas
 Download movie lense dataset MovieLens and extract zip file using various python packages http://files.grouplens.org/datasets/movielens/ml-latest-small.zip
 
+[Movie DB Analysis Notebook](https://github.com/amido84/Movie_analysis/blob/main/Movie_analysis_using_pandas.ipynb)
+
 Sample: 
 ### title, genres
 1) Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
@@ -32,3 +34,4 @@ Sample:
 7) Using matplotlib, plot total number of movies (cumulative over all the years) for each genre. Your plot should have proper title, axis labels and legends.
 8) Build a movie_title column containing the title of the movie. (It should not contain year). Drop the original title columns. Display final movie dataFrame.
 9) Using seaborn, plot average number of words in a movie name over the years in different genres. You may choose to make separate plots for each genre or to make a single color coded plot as a function of years. All plots should have proper title, axis labels and legends.
+
