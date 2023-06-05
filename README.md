@@ -3,8 +3,7 @@ Download movie lense dataset MovieLens and extract zip file using various python
 
 [Movie DB Analysis Notebook](https://github.com/amido84/Movie_analysis/blob/main/Movie_analysis_using_pandas.ipynb)
 
-Sample: 
-### title, genres
+### Sample:
 1) Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
 
 2) Jumanji (1995),Adventure|Children|Fantasy
