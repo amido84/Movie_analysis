@@ -1,7 +1,7 @@
-# Movie DB analysis using Pandas
+# [Movie DB analysis using Pandas](https://github.com/amido84/Movie_analysis/blob/main/Movie_analysis_using_pandas.ipynb)
 Download movie lense dataset MovieLens and extract zip file using various python packages http://files.grouplens.org/datasets/movielens/ml-latest-small.zip
 
-[Movie DB Analysis Notebook](https://github.com/amido84/Movie_analysis/blob/main/Movie_analysis_using_pandas.ipynb)
+### [Movie DB Analysis Notebook](https://github.com/amido84/Movie_analysis/blob/main/Movie_analysis_using_pandas.ipynb)
 
 ### Sample:
 1) Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
